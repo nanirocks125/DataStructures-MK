@@ -42,10 +42,10 @@ This is my personal collection of data structures and algorithm problems impleme
 
 | Topic             | Problems Solved |
 |------------------|------------------|
-| Arrays            | ✅ 12/20 |
-| Linked Lists      | ✅ 8/15 |
-| Graphs            | 🚧 3/20 |
-| Dynamic Programming | 🚧 4/25 |
+| Arrays            | ✅ 0/20 |
+| Linked Lists      | ✅ 0/15 |
+| Graphs            | 🚧 0/20 |
+| Dynamic Programming | 🚧 0/25 |
 | ...               | ... |
 
 ---
